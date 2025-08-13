@@ -1,2 +1,2 @@
-# List all of the files and directories to ignore in this directory
-data/*.txt
+# List all of the files and directories to ignore
+data/*.txt 
